@@ -1,0 +1,88 @@
+
+.container{
+    
+    width: 750px;
+    margin: auto;
+
+}
+.left-contant{
+    width: 30%;
+    float: left;
+    background: rgb(175, 173, 173);
+}
+.name h2{
+    
+    line-height: 10px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+#sa{
+    color: darkorange;
+    font-size: 30px;
+    font-weight: 500;
+}
+.pic img{
+  width: 100%;
+}
+.contact{
+    line-height: 20px;
+    margin-left: 20px;
+}
+.contact hr{
+    width: 142px;
+    margin-left: -1px;
+    height: 1px;
+    border: none;
+    background:#000;
+    margin-top: 7px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+h4{
+    font-weight: 700;
+    margin-top: 15px;
+}
+p{
+    margin-top: -19px;
+    font-size: 12px;
+    font-weight: 600;
+}
+a{
+    color: #000;
+    font-size: 12px;
+    
+}
+.hobbie ul{
+    margin-top: -12px;
+    margin-left: -7px;
+}
+.right-contant{
+    width: 70%;
+    float: left;
+    background: rgb(245, 239, 239);
+
+}
+.right-contant h3{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.right-contant p{
+    margin-left: 30px;
+}
+.right-contant hr{
+    border: none;
+    height: 1px;
+    background: #000;
+    margin-top: 0px;
+}
+.skill h5{
+    margin-left: 30px;
+}
+.skill ul li{
+    margin-left: 20px;
+}
+
